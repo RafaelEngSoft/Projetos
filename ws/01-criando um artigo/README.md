@@ -12,13 +12,6 @@ Você pode visualizar o artigo abrindo o arquivo `index.html` diretamente em seu
 - **CSS3** – para estilização da página.
 - **Imagens da NASA** – para ilustrar o artigo.
 
-## 📁 Estrutura do Projeto
-
-📂 projeto-jupiter/
-├── 📄 index.html
-├── 📄 style.css
-├── 📁 favicon/
-│ └── favicon.ico
 
 ## 🧠 O que foi praticado
 
