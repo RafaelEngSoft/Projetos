@@ -14,3 +14,23 @@ Você pode visualizar o artigo abrindo o arquivo `index.html` diretamente em seu
 
 ## 📁 Estrutura do Projeto
 
+📂 projeto-jupiter/
+├── 📄 index.html
+├── 📄 style.css
+├── 📁 favicon/
+│ └── favicon.ico
+
+## 🧠 O que foi praticado
+
+- Estruturação semântica com HTML.
+- Estilização de texto, imagens e seções com CSS.
+- Inserção de favicon.
+- Organização de conteúdo científico de forma acessível.
+
+## 👨‍💻 Autor
+
+Desenvolvido por [Rafael Rodrigues](https://www.linkedin.com/in/rafael-rodrigues-423aaa350/) – estudante de Engenharia de Software.
+
+---
+
+> 💡 Projeto feito como parte da minha jornada de aprendizado em desenvolvimento web.
