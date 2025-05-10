@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Diagramas UML</title>
+    <link rel="stylesheet" href="CSS/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>UML - Unified Modeling Language</h1>
+
+      <!--Menus Diagramas Estruturais-->
+      <nav>
+        <button class="submenu-btn" onclick="toggleSubmenu('estruturais')">
+          Diagramas Estruturais
+        </button>
+        <div class="submenu" id="estruturais">
+          <a href="#">Fundamentos da UML</a>
+          <a href="#">Diagrama de Classes</a>
+          <a href="#">Diagrama de Pacotes</a>
+          <a href="#">Diagrama de Componentes</a>
+          <a href="#">Diagrama de Perfil</a>
+          <a href="#">Diagrama de Instalação</a>
+          <a href="#">Diagrama de Objetos</a>
+          <a href="#">Diagrama de Estrutura Composta</a>
+        </div>
+
+        <!--Menu Diagramas Comportamentais -->
+        <button class="submenu-btn" onclick="toggleSubmenu('comportamentais')">
+          Diagramas Comportamentais
+        </button>
+        <div class="submenu" id="comportamentais">
+          <a href="#">Diagrama de Casos de Uso</a>
+          <a href="#">Diagrama de atividades</a>
+          <a href="#">Visão Geral de Interação</a>
+          <a href="#">Diagrama de Transição de Estados</a>
+          <a href="#">Diagramas de Sequência e de Colaboração</a>
+          <a href="#">Diagrama de Tempo</a>
+        </div>
+      </nav>
+    </header>
+    <main></main>
+    <footer>&copy; Desenvolvido por Rafael Rodrigues de Oliveira.</footer>
+    <script src="JS/script.js"></script>
+  </body>
+</html>
